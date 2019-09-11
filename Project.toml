@@ -1,7 +1,7 @@
 name = "QWTwPlot"
 uuid = "c76953f5-bc6e-5ec6-b76f-2f5f8bccf586"
 author = ["ig-or <igor271828@gmail.com>"]
-version = "1.1.0"
+version = "0.1.0"
 
 [deps]
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"

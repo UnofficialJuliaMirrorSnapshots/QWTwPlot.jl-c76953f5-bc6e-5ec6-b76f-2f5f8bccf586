@@ -24,7 +24,7 @@ Another description
 You can see how it looks like here:
 		https://github.com/ig-or/qwtw - on qwtw library page. There are a number of pictures in this description.
 
-In order to use this package, you'll have to have `qwtw` library "installed". For `Windows7 x64` and `Fedora-24-x64 Linux`  I have installation packages  https://github.com/ig-or/qwtw/releases
+In order to use this package, you'll have to have `qwtw` library "installed". For `Windows7 x64` and `Fedora-24-x64 Linux`  there are a few installation packages  https://github.com/ig-or/qwtw/releases
 
 
 [![Build Status](https://travis-ci.org/ig-or/qwtwplot.jl.svg?branch=master)](https://travis-ci.org/ig-or/qwtwplot.jl)
